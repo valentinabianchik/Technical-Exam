@@ -20,8 +20,7 @@ SLF4J Simple (Version 1.7.25) - for logging
 **Project Structure**
 The project is structured as follows:
 
-lua
-Copy code
+
 |-- src
 |   |-- test
 |   |   |-- java
@@ -59,7 +58,6 @@ Command Line:
 Open a terminal/command prompt in the project root directory.
 Run the following command to execute the tests:
 bash
-Copy code
 ./gradlew test
 IDE Test Runner:
 
